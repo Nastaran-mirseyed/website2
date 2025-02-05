@@ -94,6 +94,9 @@ button:active::after {
     content: "Your order has been received and is now being processed";
     font-family:"Playfair Display", serif;
 }
+.order {
+    flex: 1;
+}
 .connect {
     display: flex;
     flex-direction: row;
