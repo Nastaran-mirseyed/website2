@@ -23,6 +23,7 @@ header {
     background-color: rgba(27, 93, 10, 0.463);
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
     justify-content: baseline;
     border-bottom: 2px solid black;
 }
